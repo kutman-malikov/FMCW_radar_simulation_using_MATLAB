@@ -76,9 +76,13 @@ These assumptions were made to keep the focus on understanding the core radar pr
 ---
 
 ## Author
-Kutman Malikov
+Kutman Malikov 
+
 Bahcesehir Cyprus University
+
 Electronics Engineering
+
+kutman.engineer@gmail.com
 
 ---
 
